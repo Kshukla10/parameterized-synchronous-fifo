@@ -40,7 +40,7 @@ parameterized-synchronous-fifo/
 │   └── sync_fifo_tb.v
 ├── constraints/
 │   └── sync_fifo.xdc
-├── reports/
+├── screenshots/
 ├── README.md
 └── .gitignore
 ```
