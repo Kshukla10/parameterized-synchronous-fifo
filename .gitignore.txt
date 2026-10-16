@@ -1,0 +1,23 @@
+# Vivado generated project data
+.jou
+.log
+.str
+.wdb
+.wcfg
+.dcp
+.bit
+.bin
+.ltx
+
+# Vivado generated directories
+.Xil
+.cache
+.hw
+.ip_user_files
+.runs
+.sim
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
